@@ -1,7 +1,7 @@
 # 🔍 Operation Blackwood — Detection Layer
 ## Real Attack Data. Real Detection Rules. Real Splunk Dashboard.
 
-> **Part Two of the SentinelView Trilogy**  
+> **Part Three of the SentinelView Trilogy**  
 > *Reconnaissance → Detection → Forensics*
 
 ---
