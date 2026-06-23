@@ -325,7 +325,7 @@ This project is **Part 2** of a deliberate three-part portfolio:
 
 ## Author
 
-**Zackery** | B.S. Cybersecurity (Cum Laude) | Charlotte, NC  
+**Zackery Monk** | B.S. Cybersecurity (Cum Laude) | Charlotte, NC  
 SOC Analyst · Jr. Penetration Tester · DFIR Analyst  
 [LinkedIn](https://www.linkedin.com/in/zackery-monk/) · [GitHub: empty-throne](https://github.com/empty-throne)
 
